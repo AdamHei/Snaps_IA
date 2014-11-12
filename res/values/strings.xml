@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Snaps_ia</string>
+    <string name="hello_world">Hi</string>
+    <string name="action_settings">Action</string>
+    <string name="title_activity_photo">PhotoActivity</string>
+    <string name="app_title">Snaps_IA</string>
+    <string name="login">Login</string>
+
+</resources>
